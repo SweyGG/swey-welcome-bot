@@ -1,0 +1,14 @@
+{
+   "DEFAULTS": {
+    "AUTHORS": ["Bot Sahibi ID"],
+    "ACTIVITY_TEXT": "Swey hoşgeldin",
+    "GUILD_ID": "Sunucu ID",
+    "VOICE_CHANNEL": "Ses Kanalı ID",
+    "MIN_STAFF_ROLE": "Kayıt Sorumlusu ID",
+    "TOKEN"  :  "botun_tokeni"
+  },
+  "FILES": {
+    "WELCOME": "https://cdn.discordapp.com/attachments/844644872559657000/846101189066358804/welcome.mp3",
+    "STAFF": "https://cdn.discordapp.com/attachments/844644872559657000/846101189699305502/staff.mp3"
+  }
+}
