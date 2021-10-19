@@ -1,4 +1,4 @@
 # swey-welcome-bot
 
-- config.json u doldurun ve kullanmaya başlayın 
+- config.json alanını doldurun ve kullanmaya başlayın 
 :tada:
